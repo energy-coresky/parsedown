@@ -1,3 +1,3 @@
 <?php
 
-$plans = ['app' => ['type' => 'prod']];
+return ['app' => ['type' => 'prod']];
