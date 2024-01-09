@@ -1,0 +1,3 @@
+core:
+  plans:
+    app: {type: prod}
